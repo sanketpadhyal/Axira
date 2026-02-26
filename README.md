@@ -3,6 +3,8 @@
 > ⚠️ Status: Under Development  
 > Axira is currently in active development. Features, systems, and UI are evolving rapidly.
 
+🌐 Live Preview: https://axiraa.netlify.app  
+
 Axira is a modern real-time prediction & simulation platform focused on performance, security, and an immersive user experience.
 
 ---
@@ -45,7 +47,7 @@ To build a powerful, scalable prediction system with:
 
 ## 🔓 Open Source Plan
 
-This project will be **open sourced after full development and stabilization**.
+This project will be open sourced after full development and stabilization.
 
 Until then, the repository is under active construction.
 
@@ -64,7 +66,7 @@ Until then, the repository is under active construction.
 
 ## 👨‍💻 Developer
 
-Built by **Sanket Padhyal**
+Built by Sanket Padhyal
 
 ---
 
