@@ -1,73 +1,119 @@
-# 🚀 Axira — Prediction Platform (Under Development)
+# 🚀 Axira — Real-Time Gambling Mechanics Simulation
 
-> ⚠️ Status: Under Development  
-> Axira is currently in active development. Features, systems, and UI are evolving rapidly.
+> ⚠️ Status: Under Active Development  
+> Axira is currently being built as a technical simulation project. Systems, logic, and architecture are evolving rapidly.
 
 🌐 Live Preview: https://axiraa.netlify.app  
 
-Axira is a modern real-time prediction & simulation platform focused on performance, security, and an immersive user experience.
+Axira is a real-time simulation platform designed to demonstrate how modern online gambling and prediction systems function behind the scenes.
+
+This project focuses on architecture, round engines, probability control, backend logic, and system transparency — **not real-money gambling**.
 
 ---
 
-## 🎯 Vision
+## 🎯 Purpose
 
-To build a powerful, scalable prediction system with:
+The goal of Axira is to technically simulate and explain how gambling-style prediction systems operate at a system level.
 
-• Real-time round engine  
-• Secure backend architecture  
-• Admin controlled systems  
-• Smooth modern UI/UX  
-• Mobile + desktop optimized experience  
+It explores:
+
+• How round-based engines function  
+• How outcomes are generated and controlled  
+• How timing synchronization works  
+• How admin systems influence game parameters  
+• How backend logic ensures consistency  
+
+Axira is built as an educational and technical architecture project.
 
 ---
 
-## ✨ Current Features
+## ⚙️ Core System Architecture (In Development)
+
+### 🔁 Real-Time Round Engine
+- Timer-based prediction cycles  
+- Server-controlled outcome generation  
+- Synchronized client updates  
+- Deterministic result broadcasting  
+
+### 🎲 Probability & Outcome Logic
+- Controlled randomness simulation  
+- Admin-adjustable system variables  
+- Configurable round parameters  
+- Transparent logic modeling  
+
+### 🔐 Security Layer (Planned)
+- Input validation  
+- Anti-manipulation logic  
+- Backend-only result authority  
+- API-level protection design  
+
+### 🛠 Admin Control Panel (Planned)
+- Round configuration  
+- System parameter tuning  
+- Real-time monitoring  
+- Engine control management  
+
+---
+
+## ✨ Current Frontend Features
 
 ✔ Responsive landing page  
 ✔ Page load animations  
-✔ Skeleton loaders for smooth loading  
+✔ Skeleton loaders  
 ✔ Scroll-based smart navigation  
-✔ Optimized UI performance  
+✔ Optimized rendering performance  
+✔ Modern UI transitions  
 
 ---
 
-## 🧩 Tech Stack (in progress)
+## 🧩 Tech Stack
 
 ### Frontend
 - React  
 - Modern CSS animations  
-- Responsive layout  
+- Responsive layout system  
 
-### Backend (planned)
-- Secure APIs  
-- Real-time logic engine  
-- Database integration  
+### Backend (Planned)
+- Secure API architecture  
+- Real-time round logic engine  
+- Database-backed result control  
+- Authentication system  
+- Admin management layer  
+
+---
+
+## 📈 Roadmap
+
+- Core round engine implementation  
+- Backend API integration  
+- Authentication system  
+- Admin dashboard  
+- Real-time synchronization logic  
+- Security hardening  
+- System stabilization  
+- Public documentation release  
 
 ---
 
 ## 🔓 Open Source Plan
 
-This project will be open sourced after full development and stabilization.
+Axira will be open sourced after full development and architectural stabilization.
 
-Until then, the repository is under active construction.
+Until then, the repository remains under structured development.
 
 ---
 
-## 📈 Roadmap (high level)
+## ⚠️ Disclaimer
 
-- Core prediction engine  
-- Authentication system  
-- Admin dashboard  
-- Real-time data flow  
-- Security hardening  
-- Public release  
+Axira does **not** involve real money or live gambling.  
+It is a technical simulation project intended to demonstrate how gambling-style systems operate internally.
 
 ---
 
 ## 👨‍💻 Developer
 
-Built by Sanket Padhyal
+Built by Sanket Padhyal  
 
 ---
 
-⚡ Axira — built for performance, precision, and scale.
+⚡ Axira — engineered for performance, transparency, and system precision.
